@@ -1,0 +1,12 @@
+{
+  "alexa" : 1496,
+  "freesoftware" : false,
+  "fulltos" : { },
+  "id" : "0-citizenme-test",
+  "name" : "0-citizenme-test",
+  "type" : "service",
+  "url" : "0-citizenme-test.com",
+  "urls" : [ "0-citizenme-test.com" ],
+  "randomField" : "a94cbe81-f7a5-434f-9a85-a599bcbee442",
+  "fileName" : "0-citizenme-test.json"
+}
