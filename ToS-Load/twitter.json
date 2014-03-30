@@ -57,7 +57,7 @@
     "meta" : "popular",
     "name" : "Twitter",
     "url" : "https://twitter.com/settings/accounts/confirm_deactivation",
-    "notes" : "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. <a href='https://support.twitter.com/articles/15358-deactivating-your-account'>More details</a>"
+    "notes" : "Your account is actually 'deactivated' before being deleted. Only after 30 days of remaining deactivated will it then be deleted. <a href='https://support.twitter.com/articles/106871-come-disattivare-l-account'>Altri dettagli</a>"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/-B4iO-9xHvg/0yoWGoEISrEJ",
