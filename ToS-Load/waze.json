@@ -15,6 +15,7 @@
   "jdm" : {
     "name" : "Waze",
     "url" : "http://www.waze.com/support/",
-    "notes" : "Send in a support ticket via the Quick Help form at Waze Support. Enter 'Delete Waze account' as the subject/question, then click the Email link. Complete filling out the form with your Waze username and registered email address."
+    "notes" : "Send in a support ticket via the Quick Help form at Waze Support. Enter 'Delete Waze account' as the subject/question, then click the Email link. Complete filling out the form with your Waze username and registered email address.",
+    "difficulty" : "hard"
   }
 }
