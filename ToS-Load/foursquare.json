@@ -37,7 +37,8 @@
   "jdm" : {
     "meta" : "popular",
     "name" : "Foursquare",
-    "url" : "https://foursquare.com/delete_me"
+    "url" : "https://foursquare.com/delete_me",
+    "difficulty" : "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
