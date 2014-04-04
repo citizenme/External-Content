@@ -16,6 +16,7 @@
     "meta" : "popular",
     "name" : "Pinterest",
     "url" : "https://pinterest.com/settings/",
-    "notes" : "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted."
+    "notes" : "Accounts can be deactivated, which means that your pins and profile are hidden but not deleted.",
+    "difficulty" : "impossible"
   }
 }
