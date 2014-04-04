@@ -28,7 +28,8 @@
     "meta" : "popular",
     "name" : "LinkedIn",
     "url" : "http://help.linkedin.com/app/answers/detail/a_id/63/kw/delete%20account",
-    "notes" : "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it."
+    "notes" : "There are reports that LinkedIn continues to email people with a closed account. You may need to contact customer services to delete account instead of just closing it.",
+    "difficulty" : "medium"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
