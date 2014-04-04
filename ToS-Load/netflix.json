@@ -23,7 +23,8 @@
     "meta" : "popular",
     "name" : "Netflix",
     "url" : "https://support.netflix.com/en/node/407",
-    "notes" : "Contact customer services. Even then they may not delete your account under the premise that you might want to rejoin and keep your history and recommendations."
+    "notes" : "Contact customer services. Even then they may not delete your account under the premise that you might want to rejoin and keep your history and recommendations.",
+    "difficulty" : "impossible"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/L5pl0Vn9lKY/discussion",
