@@ -15,6 +15,7 @@
   "jdm" : {
     "name" : "Coursera",
     "url" : "https://www.coursera.org/about/contact",
-    "notes" : "Contact support and request they delete your account."
+    "notes" : "Contact support and request they delete your account.",
+    "difficulty" : "hard"
   }
 }
