@@ -25,7 +25,8 @@
   "jdm" : {
     "name" : "Gravatar",
     "url" : "http://gravatar.com",
-    "notes" : "You can't delete your Gravatar Account without deleting your entire WordPress Account."
+    "notes" : "You can't delete your Gravatar Account without deleting your entire WordPress Account.",
+    "difficulty" : "impossible"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/Kj5tyqxJkz4/discussion",
