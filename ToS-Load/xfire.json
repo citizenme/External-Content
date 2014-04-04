@@ -17,7 +17,8 @@
   "jdm" : {
     "name" : "Xfire",
     "url" : "http://www.xfire.com/faq#1",
-    "notes" : "There is no way to delete your account, you can only make some information private and/or delete it."
+    "notes" : "There is no way to delete your account, you can only make some information private and/or delete it.",
+    "difficulty" : "impossible"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/T98obrJsjJA/w1Gp9SDABtkJ",
