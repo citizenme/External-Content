@@ -64,7 +64,8 @@
   "jdm" : {
     "name" : "Spotify",
     "url" : "https://www.spotify.com/se/about-us/contact/contact-spotify-support/?contact",
-    "notes" : "Contact Spotify’s customer services through their contact form and request for your account to be closed."
+    "notes" : "Contact Spotify’s customer services through their contact form and request for your account to be closed.",
+    "difficulty" : "hard"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/0_MR5Jg90Qc/discussion",
