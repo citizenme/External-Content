@@ -40,7 +40,8 @@
   "jdm" : {
     "name" : "Xing",
     "url" : "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185",
-    "notes" : "Select 'delete my profile' at the bottom of the page."
+    "notes" : "Select 'delete my profile' at the bottom of the page.",
+    "difficulty" : "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/J6F7dG8dqSo/discussion",
