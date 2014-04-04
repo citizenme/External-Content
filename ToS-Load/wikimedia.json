@@ -15,6 +15,7 @@
   "jdm" : {
     "name" : "Mint",
     "url" : "https://mint.com",
-    "notes" : "Click 'Accounts' in the upper right, then select the 'Settings' tab.  Scroll to the bottom and click 'Delete Your Mint Account' and finally 'YES, delete my Mint account'."
+    "notes" : "Click 'Accounts' in the upper right, then select the 'Settings' tab.  Scroll to the bottom and click 'Delete Your Mint Account' and finally 'YES, delete my Mint account'.",
+    "difficulty" : "easy"
   }
 }
