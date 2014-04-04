@@ -23,6 +23,7 @@
   "fileName" : "paypal.json",
   "jdm" : {
     "name" : "PayPal",
-    "url" : "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account"
+    "url" : "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
+    "difficulty" : "easy"
   }
 }
