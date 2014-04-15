@@ -14,6 +14,7 @@
   "fileName" : "tweetdeck.json",
   "jdm" : {
     "name" : "Tweetdeck",
-    "url" : "https://www.tweetdeck.com/api/account-delete/"
+    "url" : "https://www.tweetdeck.com/api/account-delete/",
+    "difficulty" : "easy"
   }
 }
