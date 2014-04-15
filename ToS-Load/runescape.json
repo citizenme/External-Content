@@ -17,7 +17,8 @@
   "jdm" : {
     "name" : "Runescape",
     "url" : "http://services.runescape.com/m=rswiki/en/Account_Help",
-    "notes" : "Under 5. Account Settings > A. Account Management > V. Account Deletion. You must mail or fax an affidavit to the Runescape office along with a copy of your legal identification"
+    "notes" : "Under 5. Account Settings > A. Account Management > V. Account Deletion. You must mail or fax an affidavit to the Runescape office along with a copy of your legal identification",
+    "difficulty" : "hard"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/T98obrJsjJA/w1Gp9SDABtkJ",
