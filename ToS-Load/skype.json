@@ -135,7 +135,8 @@
     "meta" : "popular",
     "name" : "Skype",
     "url" : "https://support.skype.com/en/faq/FA142/can-i-delete-my-skype-account",
-    "notes" : "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created your account, and your signup email address."
+    "notes" : "Contact customer services. You’ll need to know 5 contacts from your contacts list, the month you created your account, and your signup email address.",
+    "difficulty" : "hard"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/T98obrJsjJA/w1Gp9SDABtkJ",
