@@ -54,7 +54,8 @@
   "jdm" : {
     "name" : "Steam",
     "url" : "https://support.steampowered.com/newticket.php",
-    "notes" : "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while."
+    "notes" : "If you contact Steam support, they will most likely tell you just to not use the account. If your account has no games on it, it will be disabled after a while.",
+    "difficulty" : "impossible"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/O1jol2PECRM/hKTMzj1GxpYJ",
