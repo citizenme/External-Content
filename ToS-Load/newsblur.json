@@ -19,6 +19,7 @@
   "fileName" : "newsblur.json",
   "jdm" : {
     "name" : "NewsBlur",
-    "url" : "https://www.newsblur.com/profile/delete_account"
+    "url" : "https://www.newsblur.com/profile/delete_account",
+    "difficulty" : "easy"
   }
 }
