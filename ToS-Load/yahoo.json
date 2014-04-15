@@ -48,7 +48,8 @@
   "jdm" : {
     "meta" : "popular",
     "name" : "Yahoo!",
-    "url" : "https://edit.yahoo.com/config/delete_user"
+    "url" : "https://edit.yahoo.com/config/delete_user",
+    "difficulty" : "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/msg/tosdr/WEwv5V2M9zw/Fevl-3Wq_BsJ",
