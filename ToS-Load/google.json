@@ -57,7 +57,8 @@
   "jdm" : {
     "meta" : "popular",
     "name" : "Google",
-    "url" : "https://www.google.com/accounts/Login"
+    "url" : "https://www.google.com/accounts/Login",
+    "difficulty" : "easy"
   },
   "points" : [ {
     "discussion" : "https://groups.google.com/d/topic/tosdr/2xvjZf1mgd0/discussion",
